@@ -1,2 +1,2 @@
 # fake-bills
-Invoice generator application by using ReactJs
+Invoice generator application by using ReactJs.
